@@ -12,5 +12,4 @@ group :development do
   gem 'tee'
   gem 'webmock'
   gem 'yard'
-  gem 'buildpack-packager', git: 'https://github.com/cloudfoundry-incubator/buildpack-packager'
  end
